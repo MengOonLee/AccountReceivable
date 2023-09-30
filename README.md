@@ -1,1 +1,1 @@
-# AccountReceivableForecasting
+# Account Receivable Forecasting
